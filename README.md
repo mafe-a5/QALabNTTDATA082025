@@ -1,0 +1,2 @@
+# QALabNTTDATA082025
+Examen NTT DATA git
